@@ -1,7 +1,8 @@
 # FACE_RECOGNITION_SYSTEM
 Face recognition using Python involves the application of computer vision and machine learning techniques to identify and verify individuals based on their facial features. This technology has found widespread use in various domains, including security systems, authentication processes, and even in entertainment applications.
 Face Detection:
-.Use a face detection library (e.g., OpenCV, dlib) to locate faces in images or video frames.
+
+1.Use a face detection library (e.g., OpenCV, dlib) to locate faces in images or video frames.
 Extract the face regions from the images.
 Data Collection:
 
